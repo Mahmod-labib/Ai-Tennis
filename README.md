@@ -52,6 +52,10 @@ Task one video
 features Auth and onboarding
 https://github.com/user-attachments/assets/6668b5e6-f4b3-4f2d-a832-2e146621cf47
 
+final task submission     
+
+https://github.com/user-attachments/assets/e6ae3e4a-bba9-458a-a9b8-0da7dfb99e5d
+
 
 task two video
 features getLocation(home) and weather
